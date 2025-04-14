@@ -42,7 +42,8 @@
     height: 60px;
     align-items: center;
     text-decoration: none;
-    color: inherit;
+    color: #060b35;
+    transition: all 0.3s;
   }
   &__list-item:hover {
     color: $blue-color;
